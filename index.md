@@ -212,12 +212,15 @@ special instructions.
   We are committed to making this workshop
   accessible to everybody. 
 {% if online == "false" %}
+
+{% comment %}
   The workshop organizers have checked that:
 <p>
   <ul>
     <li>The room is wheelchair / scooter accessible.</li>
     <li>Accessible restrooms are available.</li>
   </ul>
+{% endcomment %}
 {% endif %}
 </p>
 <p>We are dedicated to providing a positive and accessible learning environment for all. 
